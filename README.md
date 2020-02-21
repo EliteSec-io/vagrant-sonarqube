@@ -6,6 +6,7 @@ This is a simple project for evaluating [Sonarqube](https://www.sonarqube.org/) 
 
 * [Virtualbox](https://www.virtualbox.org/)
 * [Vagrant](https://www.vagrantup.com/)
+* [SonarScanner](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/) - _Required if you project's main language is not_ Java, C#, _or_ VB.NET
 
 ## Execution
 
