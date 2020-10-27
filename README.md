@@ -11,8 +11,9 @@ This is a simple project for evaluating [Sonarqube](https://www.sonarqube.org/) 
 ## Execution
 
 1. Clone this repo
-2. Execute the command: `vagrant up`
-3. Browse to http://localhost:9000/
+2. Update the plugins via `vagrant plugin update`
+3. Execute the command: `vagrant up`
+4. Browse to http://localhost:9000/
 
 Further information on how to use Sonarqube, how to scan code, etc, can be found at [Sonarqubes Documentation](https://docs.sonarqube.org/latest/) site.
 
